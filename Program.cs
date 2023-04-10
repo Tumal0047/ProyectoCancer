@@ -15,6 +15,7 @@ class Program
             Console.WriteLine("2. Editar paciente");
             Console.WriteLine("3. Borrar paciente");
             Console.WriteLine("4. Mostrar pacientes");
+            //khvhjkgvjhgvjgyhjhbkbh
             Console.WriteLine("5. Salir");
 
             Console.Write("Ingrese una opción: ");
